@@ -85,17 +85,17 @@ import Backiphone from "./Backiphone.png"
 
 //Processed Food Card
 
-import Processedcard1 from "./Processedcard1.png"
-import Processedcard2 from "./Processedcard2.png"
-import Processedcard3 from "./Processedcard3.png"
+import Processedcard1 from "./ProcessedCard1.png"
+import Processedcard2 from "./ProcessedCard2.png"
+import Processedcard3 from "./ProcessedCard3.png"
 
 //Footer Image
 
-import FooterImg from "./Footerimg.png"
+import FooterImg from "./FooterImg.png"
 
 // App store Icons
 
-import Playtoreicon from "./PlayStoreicon.png" 
+import Playtoreicon from "./PlayStoreIcon.png" 
 import AppleStoreicon from "./AppleStore.png" 
 
 //Footer SocialMedia Icon
