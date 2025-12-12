@@ -80,7 +80,7 @@ import steak from "./Steak.png"
 import discounttag from "./DiscountIcon.png"
 import Livetarcking from "./Livetracking.png"
 import quickdelivery from "./quickdelivery.png"
-import Topiphone from "./Topiphone.png"
+import Topiphone from "./TopIphone.png"
 import Backiphone from "./Backiphone.png"
 
 //Processed Food Card
