@@ -24,7 +24,7 @@ import foodcard4 from "./foodcard4.png"
 
 import workimg1 from "./Mapmarker.png"
 import workimg2 from "./Menu.png"
-import workimg3 from "./invoice.png"
+import workimg3 from "./Invoice.png"
 import workimg4 from "./Donut.png"
 
 // Popular items
